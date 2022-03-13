@@ -1,5 +1,5 @@
 {
-    "name": "MiraiBypass-Adonis",
+    "name": "Mirai",
     "version": "1.2.14",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
     "main": "mirai.js",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/vannhatk03/miraiv2.git"
     },
-    "author": "vannhatk03",
+    "author": "CatalizCS",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
